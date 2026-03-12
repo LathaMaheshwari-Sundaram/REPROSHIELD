@@ -1,1 +1,1 @@
-# REPROSHIELD
+ReproShield is an AI-powered system that predicts female reproductive health disorders such as PCOS, menstrual irregularities, and uterine fibroids using clinical data and ultrasound images. The PCOS model achieved an accuracy of 79%, the menstrual disorder model achieved 90% accuracy, and the fibroid detection model achieved 72% accuracy. The system combines these predictions to provide an overall reproductive health risk assessment.
